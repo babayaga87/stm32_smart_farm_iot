@@ -1,0 +1,7 @@
+../Core/dependencies/protocol.c:11:6:assemble_master_packet	1
+../Core/dependencies/protocol.c:16:6:assemble_slave_packet	1
+../Core/dependencies/protocol.c:30:6:serialize_master_packet	1
+../Core/dependencies/protocol.c:35:6:deserialize_master_packet	1
+../Core/dependencies/protocol.c:40:6:serialize_slave_packet	1
+../Core/dependencies/protocol.c:60:6:deserialize_slave_packet	1
+../Core/dependencies/protocol.c:68:6:slave_init	1
